@@ -1,7 +1,5 @@
 # kdtree-blend
 
-A Quil sketch designed to ... well, that part is up to you.
-
 ## Usage
 
 LightTable - open `core.clj` and press `Ctrl+Shift+Enter` to evaluate the file.
